@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es6",               // Permite usar ES6+
+    "lib": ["es6", "dom"],         // Tipos padrão do browser
+    "types": ["node", "cypress"],  // Habilita intellisense do Cypress
+    "moduleResolution": "node",    // Resolução de módulos estilo Node.js
+    "strict": false                // Desativa verificações estritas
+  },
+  "include": ["**/*.ts"]          // Inclui todos os arquivos TypeScript na pasta Cypress
+}
+
