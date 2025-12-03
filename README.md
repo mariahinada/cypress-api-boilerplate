@@ -59,7 +59,7 @@ Fica assim:
 - sem repetir lógica
 - com responsabilidade clara
 
-```bash
+```typescript
 it('deve criar um usuário com sucesso', () => {
   userAction.createUser();
 });
