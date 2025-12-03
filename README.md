@@ -6,6 +6,7 @@ Este repositório contém o mímimo essencial para a criação de testes automat
 
 ## Estrutura do repositório
 
+```
 ├── .gitattributes
 ├── .gitignore
 ├── cypress
@@ -28,6 +29,7 @@ Este repositório contém o mímimo essencial para a criação de testes automat
 ├── package.json
 ├── README.md
 └── tsconfig.json
+```
 
 ## Como utilizar o boilerplate
 
