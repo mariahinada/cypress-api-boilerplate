@@ -52,7 +52,7 @@ Existe uma arquitetura pré-pronta onde:
 - encadear chamadas
 - chamar assert na ordem correta
 
-`tests`    -  São os arquivos *.cy.ts que o Cypress executa. Aqui você mantém somente o cenário de teste, chamando as ações prontas.
+`tests`    -  são os arquivos *.cy.ts que o Cypress executa. Aqui você mantém somente o cenário de teste, chamando as ações prontas.
 Fica assim:
 - legível
 - simples
