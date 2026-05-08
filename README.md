@@ -2,7 +2,7 @@
 
 ## Descrição do repositório
 
-Este repositório contém o mímimo essencial para a criação de testes automatizados em API utilizando cypress + node.js + typescript
+Este repositório contém o mínimo necessário para a criação de testes automatizados em API utilizando cypress + node.js + typescript
 
 ## Estrutura do repositório
 
